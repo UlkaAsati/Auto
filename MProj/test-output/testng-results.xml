@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59173" started-at="2014-09-19T02:22:23Z" finished-at="2014-09-19T02:23:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59173" started-at="2014-09-19T02:22:23Z" finished-at="2014-09-19T02:23:22Z">
+      <class name="Auto.MProj.NewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Auto.MProj.NewTest@8bdd6b]" name="setUp" is-config="true" duration-ms="41095" started-at="2014-09-19T02:22:23Z" finished-at="2014-09-19T02:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Auto.MProj.NewTest@8bdd6b]" name="f" duration-ms="17344" started-at="2014-09-19T02:23:04Z" finished-at="2014-09-19T02:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Auto.MProj.NewTest@8bdd6b]" name="teardown" is-config="true" duration-ms="718" started-at="2014-09-19T02:23:22Z" finished-at="2014-09-19T02:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Auto.MProj.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
